@@ -1,0 +1,74 @@
+#paineis-sobre {
+    margin-top: 20px;
+}
+
+html,
+body {
+    background-color: aquamarine;
+    height: 100%;
+}
+
+header {
+    background-size: cover;
+    background-position: top center;
+    height: 100%;
+    width: auto;
+}
+
+header h1 {
+    margin-bottom: 0;
+    margin-top: 0;
+}
+
+.navbar {
+    padding: 1em;
+}
+
+.nayara-banner {
+    background-color: rgba(0, 0, 0, 0.5);
+    border-radius: 10px;
+    color: #fff;
+    padding: 20px;
+    width: 80%;
+}
+
+.contato {
+    display: inline-block;
+    height: 100%;
+    vertical-align: top;
+    width: 50%;
+}
+
+
+.icons {
+    text-align: center;
+    width: 100%;
+}
+
+.a {
+    display: inline-block;
+    margin-top: 3em;
+    margin-right: 10em;
+    width: 5em;
+    height: 5em;
+}
+
+i{
+font-size: 5em;
+}
+
+.grupo-radio .radio:first-child {
+    margin-top: 0;
+}
+
+footer {
+    background-color: #333;
+    color: #fff;
+    margin-top: 10px;
+    padding: 20px;
+    text-align: center;
+}
+
+footer address:last-child {
+    margin-bottom: 0;
+}
